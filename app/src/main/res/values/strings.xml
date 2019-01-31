@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitDemo</string>
+    <string name="title_home">主页</string>
+    <string name="title_dashboard">应用</string>
+    <string name="title_notifications">消息</string>
+    <string name="title_donut">设置</string>
+</resources>
